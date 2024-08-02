@@ -49,7 +49,7 @@ export default function Skills() {
   ];
 
   return (
-    <section className={styles.toolsSection}>
+    <section className={styles.toolsSection} id="skills">
       <h2 className={styles.toolsTitle}>Skills & Tools</h2>
       <h1 className={styles.toolsSubTitle}>My Toolbox & Things I Can Do</h1>
       <h3 className={styles.toolsDescription}>
